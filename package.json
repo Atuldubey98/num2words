@@ -1,0 +1,30 @@
+{
+  "name": "num2words",
+  "version": "1.0.0",
+  "description": "It will convert numbers to words and viceversa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atuldubey98/num2words.git"
+  },
+  "keywords": [
+    "number",
+    "to",
+    "words",
+    "and",
+    "currency",
+    "to",
+    "words",
+    "by",
+    "locale"
+  ],
+  "author": "Atul Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atuldubey98/num2words/issues"
+  },
+  "homepage": "https://github.com/Atuldubey98/num2words#readme"
+}
